@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    padding: 0;
+    margin: 0;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Trad:wght@100..400&display=swap');
+body{
+  
+    height: 100%;
+    width: 100%;
+    background-image: radial-gradient(#407a76,#457a40 ,black );
+    font-family: "Playwrite FR Trad", cursive;
+    
+    
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+    
+
+}
